@@ -1,6 +1,6 @@
 <?php
 
-namespace namespace Weaverryan\DangerZone;
+namespace namespace DangerZone;
 
 class Database
 {
