@@ -1,6 +1,6 @@
 <?php
 
-namespace DangerZone;
+namespace Vemeno;
 
 class Product
 {
