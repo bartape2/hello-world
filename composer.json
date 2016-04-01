@@ -1,0 +1,8 @@
+{
+    "name": "bartape2/vemeno",
+    "autoload": {
+        "psr-0" : {
+            "Vemeno" : "src"
+        }
+    }
+}
