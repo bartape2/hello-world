@@ -1,6 +1,6 @@
 <?php
 
-namespace Weaverryan\DangerZone;
+namespace DangerZone;
 
 class Product
 {
