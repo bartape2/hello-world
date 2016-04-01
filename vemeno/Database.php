@@ -1,6 +1,6 @@
 <?php
 
-namespace Vemeno;
+namespace namespace Weaverryan\DangerZone;
 
 class Database
 {
