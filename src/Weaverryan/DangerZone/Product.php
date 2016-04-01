@@ -9,7 +9,7 @@ class Product
   protected $name = "";
   
   
-  public function __cosntruct()
+  public function __construct()
   {
     $this->id = 42;
     $this->name = "Teplo US";    
