@@ -1,6 +1,6 @@
 <?php
 
-namespace Vemeno;
+namespace Weaverryan\DangerZone;
 
 class Product
 {
