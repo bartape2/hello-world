@@ -8,7 +8,7 @@ class Database
   protected $db = null;
   
   
-  public function __cosntruct()
+  public function __construct()
   {
     $this->db = true;    
   }
